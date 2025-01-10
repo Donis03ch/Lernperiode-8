@@ -4,7 +4,7 @@
 
 10.01.2025 bis 24.01.2025
 
-1. Meine Noten sind auf eine zufriedenstellende Ebene.
+1. Meine Noten sind auf einer zufriedenstellenden Ebene.
 2. Bei Problemen nicht lange warten und mich mit anderen Umtauschen.
 3. ...Projekt.
 
