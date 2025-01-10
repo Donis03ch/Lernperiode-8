@@ -6,8 +6,8 @@
 
 ## Arbeitspakete für 10.01.2025
 
-- [ ] Aufgabe 4 M450-LB
 - [ ] Aufgabe 5 M450-LB
-- [ ] ...
+- [ ] Aufgabe 6 M450-LB
+- [ ] Aufgabe 7 M450-LB
 
 Heute habe ich... (xx Wörter)
