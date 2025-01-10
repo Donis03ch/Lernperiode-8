@@ -4,7 +4,9 @@
 
 10.01.2025 bis 24.01.2025
 
-Geplant habe ich in dieser LP...
+1. Meine Noten sind auf einer zufriedenstellende Ebene.
+2. Bei Problemen nicht lange warten und mich mit anderen Umtauschen.
+3. ...Projekt.
 
 ## Arbeitspakete für 10.01.2025
 
