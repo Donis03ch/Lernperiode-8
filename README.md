@@ -6,7 +6,7 @@
 
 1. Meine Noten schliessen auf einer zufriedenstellenden Ebene ab.
 2. Bei Problemen nicht lange warten und mich mit anderen Umtauschen.
-3. ...Projekt.
+3. BlackJack Projekt.
 
 ## Arbeitspakete für 10.01.2025
 
