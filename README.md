@@ -18,6 +18,14 @@ Heute habe ich an der LB gearbeitet. Ich habe das Klassendiagramm fertig gemacht
 
 ## Arbeitspakete für 17.01.2025
 
+- [x] Menu
+- [x] Game logic
+- [ ] ...
+
+Heute habe ich an dem kleinen Blackjack projekt gearbeitet. Ich habe mit dem Menu angefangen und bin weiter zu der hauptsächlichen Logik rüber. Beim Vorgehen bin ich auf keine Schwierigkeiten geraten.
+
+## Arbeitspakete für 23.01.2025
+
 - [ ] Menu
 - [ ] Game logic
 - [ ] ...
