@@ -26,8 +26,8 @@ Heute habe ich an dem kleinen Blackjack projekt gearbeitet. Ich habe mit dem Men
 
 ## Arbeitspakete für 23.01.2025
 
-- [ ] Menu
+- [x] Menu
 - [ ] Game logic
 - [ ] ...
 
-Heute habe ich...
+Heute habe ich das Hauptmenu für meine Cardgames gemacht. Mit der Logic wurde ich noch nicht fertig.
